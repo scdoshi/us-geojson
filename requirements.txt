@@ -1,0 +1,4 @@
+fabric==1.10.2
+fiona==1.5.1
+geojson==1.2.1
+shapely==1.5.9
