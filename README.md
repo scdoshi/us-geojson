@@ -3,9 +3,9 @@ US GeoJSON Shapes
 
 GeoJSON files for:
 
-- Zipcodes
-- State
-- Regions
-- US
+- [Zipcodes](geojson/zipcode)
+- [State](geojson/state)
+- [Regions](geojson/region)
+- [US Outline](geojson/nation)
 
 Original data from US Census Bureau
