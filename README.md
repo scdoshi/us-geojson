@@ -1,4 +1,11 @@
-us--geojson
-===========
+US GeoJSON Shapes
+=================
 
-Script to generate zipcode boundary json files per district
+GeoJSON files for:
+
+- Zipcodes
+- State
+- Regions
+- US
+
+Original data from US Census Bureau
